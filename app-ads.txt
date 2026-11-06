@@ -1,5 +1,7 @@
 OWNERDOMAIN=nevkiagame.github.io
 google.com, pub-8444312630346129, DIRECT, f08c47fec0942fa0
+# Hurdacı: Google AdMob (separate AdMob account)
+google.com, pub-8734684453186533, DIRECT, f08c47fec0942fa0
 
 # Zombpunk: Unity LevelPlay (ironSource)
 ironsrc.com, 696137, DIRECT
